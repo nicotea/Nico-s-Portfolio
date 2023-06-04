@@ -2,3 +2,6 @@ streamlit
 pandas
 seaborn
 matplotlib
+scipy
+statsmodels
+plotly
