@@ -10,4 +10,4 @@ COPY . /app
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "app.py"]
+CMD ["streamlit", "run", "0_🏠_Home.py"]
